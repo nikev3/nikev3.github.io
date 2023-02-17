@@ -1,4 +1,19 @@
 .title{
     text-align: center;
 }
-.col-sm{}
+.col-sm{
+    position: absolute;
+    margin-left: 50px;
+    background-color:rgba(0,0,0,0.4);
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.listhead{
+    font-size: 40px;
+}
+ul{
+
+    font-size: 20px;
+    opacity: 1;
+    
+}
